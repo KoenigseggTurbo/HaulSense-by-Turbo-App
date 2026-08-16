@@ -1,0 +1,9 @@
+# Settings for the Firebase App Hosting backend
+runConfig:
+  memory: 4Gi
+  cpu: 1
+  maxInstances: 10
+
+env:
+  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: studio-8739858499-6026b

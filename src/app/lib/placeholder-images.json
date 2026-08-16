@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "app-logo",
+      "description": "HaulSense Official Logo",
+      "imageUrl": "/logo.png",
+      "imageHint": "truck logo"
+    },
+    {
+      "id": "truck-dashboard",
+      "description": "Professional semi-truck cabin interior at night",
+      "imageUrl": "https://picsum.photos/seed/truck1/1200/800",
+      "imageHint": "truck interior"
+    },
+    {
+      "id": "highway-night",
+      "description": "Highway with truck light trails at night",
+      "imageUrl": "https://picsum.photos/seed/highway/1200/800",
+      "imageHint": "highway night"
+    }
+  ]
+}
